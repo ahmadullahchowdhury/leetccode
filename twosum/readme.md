@@ -3,6 +3,10 @@
 ## Problem Statement
 Given an array of integers and a target integer, return the indices of the two numbers in the array that add up to the target. Assume that each input has exactly one solution, and an element cannot be used twice.
 
+
+
+![alt text](image.png)
+
 ## Solution Methodology
 
 ### Index Mapping:
