@@ -11,5 +11,3 @@ if (newArr.length === arr.length) {
 }
 
 // better solution
-const hasDuplicates = arr.some((item, index) => arr.indexOf(item) !== index);
-console.log(hasDuplicates ? "Duplicates found" : "No duplicates");
