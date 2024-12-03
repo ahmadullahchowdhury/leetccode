@@ -1,3 +1,3 @@
 # Problem Solving Progress
 
-I have solved 8 problems.
+I have solved 13 problems.
